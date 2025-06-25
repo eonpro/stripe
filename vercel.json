@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/stripe-invoices.js": {
+      "maxDuration": 30
+    }
+  }
+}
